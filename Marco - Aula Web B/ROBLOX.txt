@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>roberto</title>
+</head>
+
+<h1>LIFE QUOTES AULA 1</h1>
+<h2>"<b>Life</b> is <u>Roblox</u>"</h2> <br> - <i>DJ Khaleed</i> <br> 
+
+<p>Clique <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><b>AQUI</b></a> para ganhar 12 000 Robux de GRAÇA.</p>
+
+<hr>
+
+<ul>
+
+Lista Não-Ordenada UwU
+
+<li>Salada</li>
+<li>Roblox</li>
+<li>fortnite</li>
+<li>AMong Us </li>
+<li>Agua de coco</li>
+</ul>
+
+<ol>
+
+<li>Compre o Gift Card do Roblox</li>
+<li>Ligue seu computador ou maquina com acesso ao Roblox</li>
+<li>Entre no Roblox na conta desejada para adicionar a moeda virtual</li>
+<li>Clique em Redeem Code em Robux no canto superior direito</li>
+<li>Utilizando uma chave ou moeda, cuidadosamente raspe a parte de tras do gift card para expor o código.</li>
+<li>Insira o código e aproveite seus 1500 Robux.</li>
+
+</ol>
+
+<ul>
+
+    MELHORES [REDACTED] DA HISTÓRIA
+    
+    <li>Salada</li>
+        <ol>
+            <li>Tomate</li>
+            <li>Alface</li>
+            <li>Sei la</li>
+        </ol>
+    <li>Roblox</li>
+    <ol>
+        <li>Tomate</li>
+        <li>Alface</li>
+        <li>Sei la</li>
+    </ol>
+    <li>fortnite</li>
+    <ol>
+        <li>Tiro</li>
+        <li>Bala</li>
+        <li>Cringelord!</li>
+    </ol>
+    <li>AMong Us </li>
+    <ol>
+        <li>Preto</li>
+        <li>Vermelho</li>
+        <li>Amarelo</li>
+    </ol>
+    <li>Agua de coco</li>
+    <ol>
+        <li>Água</li>
+        <li>Coco</li>
+        <li>Copo</li>
+    </ol>
+
+</ul>
+
+
+
+
+
+
+</body>
+</html>
