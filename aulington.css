@@ -1,0 +1,24 @@
+body{
+    color: azure;
+    background-color: black;
+}
+
+
+
+
+p{
+    color:limegreen;
+    background-color: blue ;
+    font-size: x-large;
+    font-family: cursive;
+    text-align: center;
+}
+
+img{
+    width: 999px;
+    height: 999px;
+    border: 69px dashed salmon;
+    border-radius: 999px;
+}
+
+
