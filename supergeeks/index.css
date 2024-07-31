@@ -1,0 +1,15 @@
+img {
+    size: 10px;
+    text-align: center;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    border-width: 2px;
+    border-style:solid
+}
+
+header {
+    text-align: center;
+    
+}
